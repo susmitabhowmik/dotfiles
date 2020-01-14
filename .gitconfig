@@ -1,0 +1,9 @@
+[user]
+	name = susmitabhowmik
+	email = susmita.bhowmik516@gmail.com
+
+[commit]
+	template = ~/dotfiles/.gitmessage
+
+[core]
+	editor = subl -n -w
