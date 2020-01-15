@@ -3,12 +3,6 @@ alias gs="git status"
 alias gl="git log"
 alias gc="git commit"
 
-
-# Create a new directory and enter it
-function mkd() {
-    mkdir -p "$@" && cd "$@"
-}
-
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
