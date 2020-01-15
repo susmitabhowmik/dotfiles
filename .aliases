@@ -1,4 +1,7 @@
 alias g="git"
+alias gs="git status"
+alias gl="git log"
+alias gc="git commit"
 
 
 # Create a new directory and enter it
@@ -14,3 +17,8 @@ alias .....="cd ../../../.."
 alias c="clear"
 
 alias home="cd ~"
+alias desktop="cd ~/Desktop"
+alias projects="cd ~/Projects"
+alias dotfiles="cd ~/dotfiles"
+alias downloads="cd ~/Downloads"
+alias documents="cd ~/Documents"
