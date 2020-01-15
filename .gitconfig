@@ -2,8 +2,10 @@
 	name = susmitabhowmik
 	email = susmita.bhowmik516@gmail.com
 
+#Template for git commit message
 [commit]
 	template = ~/dotfiles/.gitmessage
 
+#Sets sublime as default editor so all files opened from the terminal open up in sublime instead of vim.
 [core]
 	editor = subl -n -w
