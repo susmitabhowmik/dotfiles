@@ -9,3 +9,6 @@
 #Sets sublime as default editor so all files opened from the terminal open up in sublime instead of vim.
 [core]
 	editor = subl -n -w
+
+[alias]
+	logline="log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"

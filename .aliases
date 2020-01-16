@@ -1,7 +1,8 @@
 alias g="git"
 alias gs="git status"
-alias gl="git log"
+alias gl="git logline"
 alias gc="git commit"
+alias gd="git diff"
 
 alias ..="cd .."
 alias ...="cd ../.."
@@ -16,3 +17,4 @@ alias projects="cd ~/Projects"
 alias dotfiles="cd ~/dotfiles"
 alias downloads="cd ~/Downloads"
 alias documents="cd ~/Documents"
+
