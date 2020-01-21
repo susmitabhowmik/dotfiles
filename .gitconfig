@@ -1,10 +1,11 @@
 [user]
-	name = susmitabhowmik
+	name = Susmita Bhowmik
 	email = susmita@heysparkbox.com
 
 #Template for git commit message
 [commit]
 	template = ~/dotfiles/.gitmessage
+	gpgsign = true
 
 #Sets sublime as default editor so all files opened from the terminal open up in sublime instead of vim.
 [core]
