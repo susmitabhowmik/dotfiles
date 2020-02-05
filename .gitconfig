@@ -2,6 +2,7 @@
 	name = Susmita Bhowmik
 	email = susmita@heysparkbox.com
 
+
 #Template for git commit message
 [commit]
 	template = ~/dotfiles/.gitmessage
